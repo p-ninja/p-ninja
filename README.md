@@ -9,14 +9,14 @@ I am a Software Engineer Developer. Skilled in React, Node, Python, Django, Flas
 </p>
 
 ✔ TECHNICAL SKILLS:
-🔸 Languages: JavaScript, React, Node, Python, SQL, Microsoft Excel, Git
-🔸 Data collection: API, JSON, CSV, WEB-Scraping (Beautiful Soup)
-🔸 Data visualization: MatplotLib, Seaborn, Tableau, Jupyter
-🔸 Supervised learning: Hypothesis Testing (A-B Testing), Regression and Classification Algorithms
-🔸 Unsupervised learning: K-means clustering, K-nearest neighbors, Hierarchical clustering, PCA
-🔸 Deep learning: Natural Language Processing
-🔸 Statistics: Ridge, Lasso, Elastic_Net, Support Vector Machines, Random Forest, Naive Bayes, Decision Trees
-🔸 Libraries: React, Node, Django, Flask, FastAPI, Pandas, Material-UI, NumPy, Scikit-Learn, TensorFlow, Keras, SciPy, Selenium
+- Languages: JavaScript, React, Node, Python, SQL, Microsoft Excel, Git
+- Data collection: API, JSON, CSV, WEB-Scraping (Beautiful Soup)
+- Data visualization: MatplotLib, Seaborn, Tableau, Jupyter
+- Supervised learning: Hypothesis Testing (A-B Testing), Regression and Classification Algorithms
+- Unsupervised learning: K-means clustering, K-nearest neighbors, Hierarchical clustering, PCA
+- Deep learning: Natural Language Processing
+- Statistics: Ridge, Lasso, Elastic_Net, Support Vector Machines, Random Forest, Naive Bayes, Decision Trees
+- Libraries: React, Node, Django, Flask, FastAPI, Pandas, Material-UI, NumPy, Scikit-Learn, TensorFlow, Keras, SciPy, Selenium
 
 ✔ SOFT SKILLS:
 Problem-solving, Communication, Design, Analytical, Object Relational, Flexibility, Listening, Mentoring, Teamwork, Leadership, Determination, Adaptability, Critical Thinking
