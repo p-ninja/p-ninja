@@ -3,7 +3,7 @@ Experienced with making applications, predictive models, pipelines, and manipula
 
 <b>Main Stacks:</b>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,ai,selenium,js,react,node,next,vue" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,ai,selenium,js,react,nodejs,next,vue" />
 </p>
 
 <b>Others:</b>
