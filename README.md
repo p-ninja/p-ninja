@@ -1,10 +1,12 @@
 I am a Senior Python Developer. Skilled in React, Node, Python, Django, Flask, FastAPI, SQL, API, REST API, Automation-Testing, Manual-Testing, Git, Web-Scraping, Debugging, Microsoft Excel, Machine Learning, and Cloud Services. <br />
 Experienced with making applications, predictive models, pipelines, and manipulating human languages using NLP algorithms. Proficient with applying Data Visualization techniques.
 
+<b>Main Stacks:</b>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,ai,selenium,js,react,node,next,vue" />
 </p>
 
+<b>Others:</b>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,firebase,supabase,heroku,vercel,docker,kubernetes,grafana,prometheus,kafka,elasticsearch,jenkins,nginx,postman,redis,mysql,postgres,sqlite,mongodb,dynamodb,graphql,git,github,gitlab,linux,vim,vscode" />
 </p>
