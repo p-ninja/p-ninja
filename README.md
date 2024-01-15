@@ -1,7 +1,7 @@
 I am a Software Engineer Developer. Skilled in React, Node, Python, Django, Flask, FastAPI, SQL, API, REST API, Automation-Testing, Manual-Testing, Git, Web-Scraping, Debugging, Microsoft Excel, Machine Learning, and Cloud Services. Experienced with making applications, predictive models, pipelines, and manipulating human languages using NLP algorithms. Proficient with applying Data Visualization techniques.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,js,react,node" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,js,react,node,next,vue" />
 </p>
 
 <p align="center">
@@ -19,4 +19,4 @@ I am a Software Engineer Developer. Skilled in React, Node, Python, Django, Flas
 - Libraries: React, Node, Django, Flask, FastAPI, Pandas, Material-UI, NumPy, Scikit-Learn, TensorFlow, Keras, SciPy, Selenium
 
 ✔ SOFT SKILLS:
-Problem-solving, Communication, Design, Analytical, Object Relational, Flexibility, Listening, Mentoring, Teamwork, Leadership, Determination, Adaptability, Critical Thinking
+- Problem-solving, Communication, Design, Analytical, Object Relational, Flexibility, Listening, Mentoring, Teamwork, Leadership, Determination, Adaptability, Critical Thinking
